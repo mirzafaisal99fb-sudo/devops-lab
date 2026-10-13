@@ -1,0 +1,13 @@
+*   c5771c9 (HEAD -> main, tag: v1.0.0) Merge feature/docs
+|\  
+| * 0f676e0 (feature/docs) Document the Makefile targets inline
+|/  
+* b8ba5a7 Add a README
+*   920b031 Merge feature/word-count
+|\  
+| * d86cf04 (feature/word-count) Add a count target reporting built words
+* | aefcaed Add a count target for source files
+|/  
+* 9d49311 Correct the contents of report.txt
+* 3683932 Add report.txt to the build inputs
+* 1aaff45 Add Lab 02 build pipeline
